@@ -2,3 +2,5 @@ Rencana Project
 - Web Application Rekam Medis menggunakan Laravel
 - Web Application SIAKAD menggunakan CodeIgniter
 - Website Perusahaan
+- Kalkulator
+- Tim
