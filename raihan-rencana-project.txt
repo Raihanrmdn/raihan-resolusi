@@ -1,4 +1,4 @@
 Rencana Project
 - Web Application Rekam Medis menggunakan Laravel
-- Web Application SIAKAD
+- Web Application SIAKAD menggunakan CodeIgniter
 - Website Perusahaan
