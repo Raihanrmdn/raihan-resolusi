@@ -1,4 +1,4 @@
 Rencana Project
-- Web Application Rekam Medis
+- Web Application Rekam Medis menggunakan Laravel
 - Web Application SIAKAD
 - Website Perusahaan
